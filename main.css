@@ -1,0 +1,29 @@
+body {
+    background-color: bisque;
+    margin: 0;
+    padding: 0;
+    overflow-y: scroll;
+}
+
+#map {
+    height: 75vh;
+}
+
+.container {
+    background-color: rgba(255, 104, 28, 0.434);
+    margin-top: 1em;
+    border: 3px solid rgb(196, 94, 15);
+}
+.image-marker {
+    height: 50px;
+    width: 50px;
+}
+
+#navigate-button {
+    border: none;
+    width: 60%;
+    padding: 1em;
+    background-color: black;
+    color: white;
+    border-radius: 1em;
+}
